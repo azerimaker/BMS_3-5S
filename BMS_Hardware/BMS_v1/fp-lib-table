@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name kicad-lib-Tinkerforge)(type KiCad)(uri D:/Dropbox/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/kicad-lib-Tinkerforge)(options "")(descr ""))
+  (lib (name Housings_SON)(type KiCad)(uri D:/Dropbox/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/extra_modules/Housings_SON.pretty)(options "")(descr ""))
+  (lib (name Transistors)(type KiCad)(uri D:/Dropbox/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/Transistors)(options "")(descr ""))
+)
