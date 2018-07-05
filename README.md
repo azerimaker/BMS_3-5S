@@ -6,6 +6,10 @@
 - MSP430 Microcontroller for gas gauging, balancing and serial communication
 - Load current: 50A (cont.), 100A (peak) (estimated!)
 
+## Programming
+- I'm using MSP430 Launchpad both to program the BMS in external target mode and to provide serial communication to PC. 
+
+
 ## Demo
 - After the modified firmware balancing and status report work fine [(see here)](https://twitter.com/OrkhanAmirAslan/status/1014643359699406849)
 
