@@ -1,10 +1,17 @@
 # BMS 3-5S
 3-5S Battery Management System based on TI bq76920 IC and MSP430 uC. The design is largely influenced by the TI's [TIDA-00449](http://www.ti.com/tool/TIDA-00449) reference and LibreSolar's excellent [BMS-5s](https://github.com/LibreSolar/BMS-5s) designs.
 
-## Specs
+## Specs:
 - 3-5 Li-ion/Po Cells
-- MSP430 Microcontroller for gas gaugung, balancing and UART communication
-- Load current: 50A (cont.), 100A (peak)
+- MSP430 Microcontroller for gas gauging, balancing and serial communication
+- Load current: 50A (cont.), 100A (peak) (estimated!)
+
+## Demo
+- After the modified firmware balancing and status report work fine [(see here)](https://twitter.com/OrkhanAmirAslan/status/1014643359699406849)
+
+## To Do
+- Fix issues with battery voltage switching and Pre-Discharge mosfets. 
+- Remove soldermask for high current tracks. 
 
 ![BMS_v1 PCB Render](/BMS_Docs/bms_v1.png)
 
