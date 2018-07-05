@@ -13,9 +13,10 @@
 ## Demo
 - After the modified firmware balancing and status report work fine [(see here)](https://twitter.com/OrkhanAmirAslan/status/1014643359699406849)
 
-## To Do
+## To Do in next Rev. 
 - Fix issues with battery voltage switching and Pre-Discharge mosfets. 
 - Remove soldermask for high current tracks. 
+- More pads for balancing resistors for higher power dissipation. 
 
 ![BMS_v1 PCB Render](/BMS_Docs/bms_v1.png)
 
