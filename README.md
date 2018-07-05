@@ -12,9 +12,10 @@
 
 
 ## Demo
-- After the modified firmware balancing and status report work fine [(see here)](https://twitter.com/OrkhanAmirAslan/status/1014643359699406849)
+- After modifying the TIDA-00449 firmware, which was designed for bq76930 (10S version) balancing and status report worked fine [(see here)](https://twitter.com/OrkhanAmirAslan/status/1014643359699406849)
 
 ## To Do in next Rev. 
+- Add simple Python script to decode serial messages and print cell status
 - Fix issues with battery voltage switching and Pre-Discharge mosfets. 
 - Remove soldermask for high current tracks. 
 - More pads for balancing resistors for higher power dissipation. 
