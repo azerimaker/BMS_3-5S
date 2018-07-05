@@ -5,6 +5,7 @@
 - 3-5 Li-ion/Po Cells
 - MSP430 Microcontroller for gas gauging, balancing and serial communication
 - Load current: 50A (cont.), 100A (peak) (estimated!)
+- You can find the PCB on Seeedstudio's [Fusion Gallery](https://www.seeedstudio.com/BMS-3-5S-g-1092928)
 
 ## Programming
 - I'm using MSP430 Launchpad both to program the BMS in external target mode and to provide serial communication to PC. 
